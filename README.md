@@ -33,7 +33,7 @@ vue-quiz-game/
 └── README.md
 ```
 
-## Prerequisites
+## Prerequisites that you need to work on this project
 
 - Node.js (v14.0 or higher)
 - npm (v6.0 or higher)
