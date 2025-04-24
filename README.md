@@ -10,7 +10,7 @@ A simple, interactive quiz game built with Vue.js and Vite. This application dem
 - Responsive design for all device sizes
 - Randomized questions for varied gameplay
 
-## Folder Structure
+## This is the Folder Structure for the game
 
 ```
 vue-quiz-game/
