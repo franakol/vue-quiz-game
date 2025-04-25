@@ -38,7 +38,7 @@ vue-quiz-game/
 - Node.js (v14.0 or higher)
 - npm (v6.0 or higher)
 
-## Running the Application
+## These Instructions Run the Application
 
 ### For macOS/Linux Users
 
